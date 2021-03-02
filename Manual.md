@@ -8,5 +8,4 @@ This Project was written using Andriod Studio with Java.
 2. Enter in the Party Size
 3. Hit the button compute tip!
 Thats it!
-
-![Screenshot](screenshot.png)
+![How it looks](https://github.com/eljeffrey/tipCalculator/blob/master/Screenshot.png?raw=true)
