@@ -7,5 +7,7 @@ This Project was written using Andriod Studio with Java.
 1. Enter in the Check Amount
 2. Enter in the Party Size
 3. Hit the button compute tip!
-Thats it!
+
+
+## How it looks!
 ![How it looks](https://github.com/eljeffrey/tipCalculator/blob/master/Screenshot.png?raw=true)
